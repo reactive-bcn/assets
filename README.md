@@ -1,1 +1,2 @@
-# assets
+# Reactive Barcelona Meetup Assets
+
